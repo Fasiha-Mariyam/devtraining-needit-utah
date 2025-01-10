@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>6a41abc696eb4960a5efde2a775cf484</client_id>
+        <client_secret>﷞﷟﷒83d3989083d212102fc1ad20ceaad3e5﷬﷔1﷬﷭ScoRQ1kTkldBvJj7mEGEVw==QFDBKKblkmu_NKPk4wfQ27vieco1-ZBRlh8=﷮﷯</client_secret>
+        <client_type/>
+        <client_uuid>5706ecb0834712102fc1ad20ceaad32b</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <jwt_provider/>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>Postman Try</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev251705.service-now.com/oauth_login.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-09 14:29:17</sys_created_on>
+        <sys_id>9706ecb0834712102fc1ad20ceaad32b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Postman Try</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oauth_entity_9706ecb0834712102fc1ad20ceaad32b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-09 14:29:17</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8edefaa81b554e90168f4089bd4bcbc1</instance_id>
+        <instance_name>dev251705</instance_name>
+        <name>oauth_entity_9706ecb0834712102fc1ad20ceaad32b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>60</auth_code_lifespan><auth_url/><certificate_url/><client_id>6a41abc696eb4960a5efde2a775cf484</client_id><client_secret>﷞﷟﷒83d3989083d212102fc1ad20ceaad3e5﷬﷔1﷬﷭ScoRQ1kTkldBvJj7mEGEVw==QFDBKKblkmu_NKPk4wfQ27vieco1-ZBRlh8=﷮﷯</client_secret><client_type/><client_uuid>5706ecb0834712102fc1ad20ceaad32b</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>password</default_grant_type><id_token_lifespan>86400</id_token_lifespan><jwt_provider/><login_url/><logo_url/><message_signature_lifespan>60</message_signature_lifespan><mobile_client>false</mobile_client><name>Postman Try</name><oauth_api_script/><protocol_name/><public_client>false</public_client><redirect_url>https://dev251705.service-now.com/oauth_login.do</redirect_url><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url/><restricted_binding>false</restricted_binding><revoke_token_url/><salt/><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-09 14:29:17</sys_created_on><sys_id>9706ecb0834712102fc1ad20ceaad32b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Postman Try</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>oauth_entity_9706ecb0834712102fc1ad20ceaad32b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-09 14:29:17</sys_updated_on><token_url/><type>client</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>-8779541</payload_hash>
+        <record_name>Postman Try</record_name>
+        <reverted_from/>
+        <source>2253ddcd83ae16102fc1ad20ceaad361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-09 14:29:18</sys_created_on>
+        <sys_id>19262cfc830712102fc1ad20ceaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1944b783a930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-09 14:29:18</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>1d262cfc1c0712100e2b2c0bc7f54e70</update_guid>
+        <update_guid_history>1d262cfc1c0712100e2b2c0bc7f54e70:-8779541</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Postman Try">20dea8b8834712102fc1ad20ceaad3c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-09 15:07:12</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>2408c78634a24e6194a2f95738cae761</sys_id>
+        <sys_metadata>9706ecb0834712102fc1ad20ceaad32b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Postman Try</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>oauth_entity_9706ecb0834712102fc1ad20ceaad32b</sys_update_name>
+        <sys_update_version display_value="oauth_entity_9706ecb0834712102fc1ad20ceaad32b">19262cfc830712102fc1ad20ceaad371</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-09 15:07:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
